@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Hello from my Arc-enabled cluster on 22 March 2021
+          value: Hello PRODUCTION
