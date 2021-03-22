@@ -16,4 +16,4 @@ spec:
     replicaCount: 2
     env:
       name: MESSAGE
-      value: Hello from my demo environment!
+      value: Hello. Here is another change.
